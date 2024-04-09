@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Piano Fundamentals",
+            "slug": "piano-fundamentals",
+            "description": "Learn the basic principles of playing the piano, including note reading, hand positioning, and basic chords.",
+            "price": 49.99,
+            "instructor": "John Smith",
+            "isFeatured": true,
+            "image": "piano_fundamentals.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Guitar Mastery",
+            "slug": "guitar-mastery",
+            "description": "Master the art of playing the guitar, from strumming techniques to advanced soloing.",
+            "price": 59.99,
+            "instructor": "Emily Davis",
+            "isFeatured": false,
+            "image": "guitar_mastery.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Music Theory Essentials",
+            "slug": "music-theory-essentials",
+            "description": "Understand the fundamental principles of music theory, including scales, intervals, and harmony.",
+            "price": 39.99,
+            "instructor": "Michael Johnson",
+            "isFeatured": true,
+            "image": "music_theory_essentials.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Singing Techniques",
+            "slug": "singing-techniques",
+            "description": "Improve your singing voice with proper breathing techniques, vocal exercises, and performance tips.",
+            "price": 44.99,
+            "instructor": "Sarah Adams",
+            "isFeatured": false,
+            "image": "singing_techniques.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Drum Basics",
+            "slug": "drum-basics",
+            "description": "Learn the basics of drumming, including rhythm patterns, drum fills, and basic beats.",
+            "price": 49.99,
+            "instructor": "David Brown",
+            "isFeatured": true,
+            "image": "drum_basics.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Bass Guitar Fundamentals",
+            "slug": "bass-guitar-fundamentals",
+            "description": "Master the basics of playing the bass guitar, including finger techniques, scales, and grooves.",
+            "price": 54.99,
+            "instructor": "Jessica White",
+            "isFeatured": false,
+            "image": "bass_guitar_fundamentals.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Songwriting Workshop",
+            "slug": "songwriting-workshop",
+            "description": "Learn the art of songwriting, including lyric writing, melody creation, and song structure.",
+            "price": 59.99,
+            "instructor": "Mark Roberts",
+            "isFeatured": true,
+            "image": "songwriting_workshop.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Music Production Basics",
+            "slug": "music-production-basics",
+            "description": "Understand the basics of music production, including recording techniques, mixing, and mastering.",
+            "price": 49.99,
+            "instructor": "Laura Wilson",
+            "isFeatured": false,
+            "image": "music_production_basics.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Violin Techniques",
+            "slug": "violin-techniques",
+            "description": "Improve your violin playing with proper bowing techniques, finger positioning, and intonation.",
+            "price": 44.99,
+            "instructor": "Daniel Lee",
+            "isFeatured": true,
+            "image": "violin_techniques.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Flute Mastery",
+            "slug": "flute-mastery",
+            "description": "Master the art of playing the flute, from proper embouchure to advanced techniques.",
+            "price": 54.99,
+            "instructor": "Sophia Clark",
+            "isFeatured": false,
+            "image": "flute_mastery.jpg"
+        }
+    ]
+}
